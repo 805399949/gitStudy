@@ -4,3 +4,4 @@ Git is free software.
 Git has a mutable index called stage.
 随便写点啥
 随便写点啥*2
+随便写点啥*3
